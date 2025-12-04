@@ -23,6 +23,7 @@ Projeto final da disciplina Data Collection & Storage.
 2. Execute as células em ordem, de cima para baixo.
 3. Ao final, verifique as mensagens de sucesso e os KPIs/operacoes ACID.
 
-Arthur Peres - 10310501
-João Vitor Camargo - 10739829
-Ricardo Betteloni Lopes - 10742658
+## Alunos
+- Arthur Peres - 10310501
+- João Vitor Camargo - 10739829
+- Ricardo Betteloni Lopes - 10742658
